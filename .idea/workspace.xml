@@ -100,7 +100,7 @@
       <workItem from="1596300559937" duration="3132000" />
       <workItem from="1596304424727" duration="10000" />
       <workItem from="1596304536086" duration="71000" />
-      <workItem from="1596304891183" duration="670000" />
+      <workItem from="1596304891183" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -207,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596305422141</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task: app.py code update to work with template">
+      <created>1596305748102</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305748102</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
