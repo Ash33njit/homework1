@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: gitignore update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: Added text to README.MD">
+      <change afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/requirments.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596300553865</updated>
-      <workItem from="1596300559937" duration="1022000" />
+      <workItem from="1596300559937" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -73,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596300913316</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task: docker-compose code added">
+      <created>1596302192944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596302192944</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task: Added text to README.MD">
+      <created>1596302357300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596302357300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +97,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Created Directories and Files" />
     <MESSAGE value="Task: gitignore update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: gitignore update" />
+    <MESSAGE value="Task: docker-compose code added" />
+    <MESSAGE value="Task: Added text to README.MD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added text to README.MD" />
   </component>
   <component name="WindowStateProjectService">
     <state x="584" y="339" key="Github.ShareDialog" timestamp="1596300664967">
