@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: added init.sql file and added code">
-      <change afterPath="$PROJECT_DIR$/screenshots/query.png" afterDir="false" />
+    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: added in screenshots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +28,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="ac262805-211f-4b8a-9940-a439cb97a6e3" />
@@ -78,7 +99,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596300553865</updated>
-      <workItem from="1596300559937" duration="2918000" />
+      <workItem from="1596300559937" duration="3132000" />
+      <workItem from="1596304424727" duration="10000" />
+      <workItem from="1596304536086" duration="71000" />
+      <workItem from="1596304891183" duration="360000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -150,11 +174,29 @@
       <option name="project" value="LOCAL" />
       <updated>1596302862194</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Task: added in screenshots">
+      <created>1596304234286</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596304234286</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task: Created Directories and Files" />
@@ -167,7 +209,8 @@
     <MESSAGE value="Task: added code to requirments.txt" />
     <MESSAGE value="Task: added code to requirements.txt" />
     <MESSAGE value="Task: added init.sql file and added code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added init.sql file and added code" />
+    <MESSAGE value="Task: added in screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added in screenshots" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="271" key="#SQL_Dialects" timestamp="1596303543645">
@@ -191,30 +234,34 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="501" y="147" key="Github.UntrackedFilesDialog/0.23.1440.823@0.23.1440.823" timestamp="1596300682382" />
-    <state width="958" height="212" key="GridCell.Tab.0.bottom" timestamp="1596303879805">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="958" height="212" key="GridCell.Tab.0.bottom" timestamp="1596304983496">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1596304983496" />
     <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1596303879805" />
-    <state width="958" height="212" key="GridCell.Tab.0.center" timestamp="1596303879804">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="958" height="212" key="GridCell.Tab.0.center" timestamp="1596304983495">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1596304983495" />
     <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1596303879804" />
-    <state width="958" height="212" key="GridCell.Tab.0.left" timestamp="1596303879803">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="958" height="212" key="GridCell.Tab.0.left" timestamp="1596304983494">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1596304983494" />
     <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1596303879803" />
-    <state width="958" height="212" key="GridCell.Tab.0.right" timestamp="1596303879804">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="958" height="212" key="GridCell.Tab.0.right" timestamp="1596304983495">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
+    <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1596304983495" />
     <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1596303879804" />
     <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1596303684834">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.825@0.23.1440.825" timestamp="1596303684834" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1596300690938">
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1596304274974">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1596300690938" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1596304274974" />
     <state x="385" y="86" width="670" height="676" key="search.everywhere.popup" timestamp="1596300897307">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
