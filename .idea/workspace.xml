@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: Template Code Additions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/template/index.html" afterDir="false" />
+    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: Template Code Updated for MLB Sql Database">
       <change beforePath="$PROJECT_DIR$/app/template/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/template/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/template/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/template/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/mlb_players.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/mlb_players.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/template/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/template/view.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +105,7 @@
       <workItem from="1596304424727" duration="10000" />
       <workItem from="1596304536086" duration="71000" />
       <workItem from="1596304891183" duration="1722000" />
-      <workItem from="1596307817975" duration="1590000" />
+      <workItem from="1596307817975" duration="1989000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -243,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596308416138</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Task: Template Code Updated for MLB Sql Database">
+      <created>1596309425290</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596309425290</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,17 +283,18 @@
     <MESSAGE value="Task: app.py code update to work with template" />
     <MESSAGE value="Task: Layout code update" />
     <MESSAGE value="Task: Template Code Additions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Template Code Additions" />
+    <MESSAGE value="Task: Template Code Updated for MLB Sql Database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Template Code Updated for MLB Sql Database" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="271" key="#SQL_Dialects" timestamp="1596303543645">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="72" y="271" key="#SQL_Dialects/0.23.1440.825@0.23.1440.825" timestamp="1596303543645" />
-    <state x="250" y="50" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596308598948">
+    <state x="64" y="66" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596309809309">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="250" y="50" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1596308598948" />
+    <state x="64" y="66" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1596309809309" />
     <state x="487" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1596308505410" />
     <state x="578" y="309" key="DockerComposeFileDialog" timestamp="1596302927394">
       <screen x="0" y="23" width="1440" height="823" />
@@ -303,29 +308,29 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="501" y="147" key="Github.UntrackedFilesDialog/0.23.1440.823@0.23.1440.823" timestamp="1596300682382" />
-    <state width="958" height="212" key="GridCell.Tab.0.bottom" timestamp="1596308548449">
+    <state width="958" height="212" key="GridCell.Tab.0.bottom" timestamp="1596309745876">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1596307965895" />
-    <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1596308548449" />
+    <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1596309745876" />
     <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1596308424576" />
-    <state width="958" height="212" key="GridCell.Tab.0.center" timestamp="1596308548449">
+    <state width="958" height="212" key="GridCell.Tab.0.center" timestamp="1596309745875">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1596307965895" />
-    <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1596308548449" />
+    <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1596309745875" />
     <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1596308424574" />
-    <state width="958" height="212" key="GridCell.Tab.0.left" timestamp="1596308548448">
+    <state width="958" height="212" key="GridCell.Tab.0.left" timestamp="1596309745875">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1596307965894" />
-    <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1596308548448" />
+    <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1596309745875" />
     <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1596308424574" />
-    <state width="958" height="212" key="GridCell.Tab.0.right" timestamp="1596308548449">
+    <state width="958" height="212" key="GridCell.Tab.0.right" timestamp="1596309745875">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1596307965895" />
-    <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1596308548449" />
+    <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1596309745875" />
     <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1596308424575" />
     <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1596303684834">
       <screen x="0" y="23" width="1440" height="825" />
