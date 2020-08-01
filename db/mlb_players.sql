@@ -1,3 +1,7 @@
+CREATE DATABASE mlbData;
+use mlbData;
+
+
 CREATE TABLE IF NOT EXISTS mlb_players (
     `Name` VARCHAR(19) CHARACTER SET utf8,
     `Team` VARCHAR(6) CHARACTER SET utf8,
