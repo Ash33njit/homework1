@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: app.py code update to work with template" />
+    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: Layout code update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +103,7 @@
       <workItem from="1596300559937" duration="3132000" />
       <workItem from="1596304424727" duration="10000" />
       <workItem from="1596304536086" duration="71000" />
-      <workItem from="1596304891183" duration="1038000" />
+      <workItem from="1596304891183" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -214,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596305748102</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task: Layout code update">
+      <created>1596305982449</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305982449</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +257,8 @@
     <MESSAGE value="Task: index code updated" />
     <MESSAGE value="Task: layout code updated" />
     <MESSAGE value="Task: app.py code update to work with template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: app.py code update to work with template" />
+    <MESSAGE value="Task: Layout code update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Layout code update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="271" key="#SQL_Dialects" timestamp="1596303543645">
@@ -295,9 +306,10 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.825@0.23.1440.825" timestamp="1596303684834" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1596304274974">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1596306247171">
+      <screen x="0" y="23" width="1440" height="822" />
     </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1596306247171" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1596304274974" />
     <state x="518" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596305280147">
       <screen x="0" y="23" width="1440" height="823" />
