@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: added code to requirements.txt">
-      <change afterPath="$PROJECT_DIR$/db/init.sql" afterDir="false" />
+    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: added init.sql file and added code">
+      <change afterPath="$PROJECT_DIR$/screenshots/query.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +22,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.homework1">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +55,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="homework1" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="removeVolumesOnComposeDown" value="true" />
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.homework1" />
+      <item itemvalue="Python.main" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596300553865</updated>
-      <workItem from="1596300559937" duration="1693000" />
+      <workItem from="1596300559937" duration="2918000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -121,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596302734767</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task: added init.sql file and added code">
+      <created>1596302862194</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596302862194</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +166,23 @@
     <MESSAGE value="Task: added code to Dockerfile" />
     <MESSAGE value="Task: added code to requirments.txt" />
     <MESSAGE value="Task: added code to requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added code to requirements.txt" />
+    <MESSAGE value="Task: added init.sql file and added code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added init.sql file and added code" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="72" y="271" key="#SQL_Dialects" timestamp="1596303543645">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="72" y="271" key="#SQL_Dialects/0.23.1440.825@0.23.1440.825" timestamp="1596303543645" />
+    <state x="487" y="87" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596303740248">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="0" y="83" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1596302972504" />
+    <state x="487" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1596303740248" />
+    <state x="578" y="309" key="DockerComposeFileDialog" timestamp="1596302927394">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="578" y="309" key="DockerComposeFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1596302927394" />
     <state x="584" y="339" key="Github.ShareDialog" timestamp="1596300664967">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -148,6 +191,26 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="501" y="147" key="Github.UntrackedFilesDialog/0.23.1440.823@0.23.1440.823" timestamp="1596300682382" />
+    <state width="958" height="212" key="GridCell.Tab.0.bottom" timestamp="1596303879805">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="958" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1596303879805" />
+    <state width="958" height="212" key="GridCell.Tab.0.center" timestamp="1596303879804">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="958" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1596303879804" />
+    <state width="958" height="212" key="GridCell.Tab.0.left" timestamp="1596303879803">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="958" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1596303879803" />
+    <state width="958" height="212" key="GridCell.Tab.0.right" timestamp="1596303879804">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="958" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1596303879804" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1596303684834">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.825@0.23.1440.825" timestamp="1596303684834" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1596300690938">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
