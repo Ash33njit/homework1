@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: added in screenshots">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80de2b74-ecb8-428f-ae45-42c4546a11b6" name="Default Changelist" comment="Task: app.py code update to work with template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +100,7 @@
       <workItem from="1596300559937" duration="3132000" />
       <workItem from="1596304424727" duration="10000" />
       <workItem from="1596304536086" duration="71000" />
-      <workItem from="1596304891183" duration="360000" />
+      <workItem from="1596304891183" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Created Directories and Files">
       <created>1596300832521</created>
@@ -181,7 +179,35 @@
       <option name="project" value="LOCAL" />
       <updated>1596304234286</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Task: added template files">
+      <created>1596305293665</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305293665</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task: index code updated">
+      <created>1596305324265</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305324265</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Task: layout code updated">
+      <created>1596305350781</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305350781</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task: app.py code update to work with template">
+      <created>1596305422141</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596305422141</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +236,11 @@
     <MESSAGE value="Task: added code to requirements.txt" />
     <MESSAGE value="Task: added init.sql file and added code" />
     <MESSAGE value="Task: added in screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: added in screenshots" />
+    <MESSAGE value="Task: added template files" />
+    <MESSAGE value="Task: index code updated" />
+    <MESSAGE value="Task: layout code updated" />
+    <MESSAGE value="Task: app.py code update to work with template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: app.py code update to work with template" />
   </component>
   <component name="WindowStateProjectService">
     <state x="72" y="271" key="#SQL_Dialects" timestamp="1596303543645">
@@ -262,6 +292,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1596304274974" />
+    <state x="518" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596305280147">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="518" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1596305280147" />
     <state x="385" y="86" width="670" height="676" key="search.everywhere.popup" timestamp="1596300897307">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
